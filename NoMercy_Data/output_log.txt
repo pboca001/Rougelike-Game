@@ -14,24 +14,44 @@ Platform assembly: C:\Users\Alex Torres\Documents\No Mercy\No Mercy\NoMercy_Data
 Loading C:\Users\Alex Torres\Documents\No Mercy\No Mercy\NoMercy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Alex Torres\Documents\No Mercy\No Mercy\NoMercy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Alex Torres\Documents\No Mercy\No Mercy\NoMercy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.037 seconds
+- Completed reload, in  0.047 seconds
 Platform assembly: C:\Users\Alex Torres\Documents\No Mercy\No Mercy\NoMercy_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Alex Torres\Documents\No Mercy\No Mercy\NoMercy_Data\Managed\System.dll (this message is harmless)
 desktop: 1280x720 60Hz; virtual: 1280x720 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.452506 ms
+UnloadTime: 0.454921 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.184745 ms
+UnloadTime: 0.206782 ms
 checked
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 397.
-Total: 0.223385 ms (FindLiveObjects: 0.025659 ms CreateObjectMapping: 0.013282 ms MarkObjects: 0.180217 ms  DeleteObjects: 0.003320 ms)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 436.
+Total: 0.220065 ms (FindLiveObjects: 0.024149 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.176595 ms  DeleteObjects: 0.003622 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.752878 ms
+checked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 453.
+Total: 0.270779 ms (FindLiveObjects: 0.024149 ms CreateObjectMapping: 0.019017 ms MarkObjects: 0.223385 ms  DeleteObjects: 0.003622 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.329342 ms
+checked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 0.256591 ms (FindLiveObjects: 0.022640 ms CreateObjectMapping: 0.012980 ms MarkObjects: 0.217348 ms  DeleteObjects: 0.003320 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2900 -> priority: 1 
-  Thread -> id: 1a94 -> priority: 1 
+  Thread -> id: 235c -> priority: 1 
+  Thread -> id: 4014 -> priority: 1 
